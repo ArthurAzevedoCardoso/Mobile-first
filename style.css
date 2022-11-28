@@ -9,8 +9,13 @@ img {
     width: 354px;
     height: 317px;
     margin: auto;
+    margin-top: 20%;
 
+}
 
+.container{
+    position: absolute;
+    top: 50%;
 }
 
 h1 {
@@ -44,7 +49,13 @@ button {
     color: #000000;
 }
 .button{
-    padding: 0 18%;
-    margin-top: 10px;
+   position: absolute;
+   left:19%;
+}
+
+
+
+.container.img{
+    margin-top: 20%;
 }
 
